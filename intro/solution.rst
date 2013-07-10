@@ -1,6 +1,6 @@
-----------------------------------------------------------
-submit_hometask -f /home/rahul/repo/intro -t "Introduction"
-----------------------------------------------------------
+--------------------------------------------------------------------------
+  submit_hometask -f /home/rahul/repo/intro/solution.rst -t "Introduction"
+--------------------------------------------------------------------------
 
 Hi, my name is Rahul Mishra,
 I am pursuing my B-TECH from NSEC(kolkata) with CSE stream,
