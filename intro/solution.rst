@@ -1,5 +1,5 @@
 ----------------------------------------------------------
-submit_hometask -f path/to/the/rst/file -t "Introduction"
+                    "Introduction"
 ----------------------------------------------------------
 
 Hi, my name is Rahul Mishra,
