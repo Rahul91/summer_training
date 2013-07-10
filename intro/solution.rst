@@ -1,4 +1,6 @@
-
+----------------------------------------------------------
+submit_hometask -f path/to/the/rst/file -t "Introduction"
+----------------------------------------------------------
 
 Hi, my name is Rahul Mishra,
 I am pursuing my B-TECH from NSEC(kolkata) with CSE stream,
